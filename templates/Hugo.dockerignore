@@ -1,0 +1,6 @@
+######################### HUGO #################################################
+# https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/Hugo.gitignore
+################################################################################
+# Hugo
+/public/
+/resources/_gen/
