@@ -1,5 +1,5 @@
 ######################### HUGO #################################################
-# https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/Hugo.gitignore
+# https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/Hugo.dockerignore
 ################################################################################
 # Hugo
 /public/

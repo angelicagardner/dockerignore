@@ -1,5 +1,5 @@
 ######################### COMMON ###############################################
-# https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/Common.gitignore
+# https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/Common.dockerignore
 ################################################################################
 # macOS
 .DS_Store
