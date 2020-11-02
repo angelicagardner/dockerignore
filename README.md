@@ -1,6 +1,6 @@
 # A collection of `.dockerignore` templates
 
-This is a collection pf `.dockerignore` templates. We use this list to make our
+This is a collection of `.dockerignore` templates. We use this list to make our
 docker image build and run faster by making image size smaller.
 
 To learn more about how `.dockerignore` file work and how to use them, check out
