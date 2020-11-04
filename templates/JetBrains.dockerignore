@@ -1,0 +1,10 @@
+######################### JETBRAINS ############################################
+# https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/JetBrains.dockerignore
+################################################################################
+# Directory-based project format
+.idea
+
+# File-based (Legacy) project format
+*.ipr
+*.iml
+*.iws
