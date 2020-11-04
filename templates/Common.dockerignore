@@ -1,9 +1,6 @@
 ######################### COMMON ###############################################
 # https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/Common.dockerignore
 ################################################################################
-# macOS
-.DS_Store
-
 # Git
 .git
 .gitignore
@@ -22,5 +19,8 @@ CONTRIBUTING.md
 CODE_OF_CONDUCT.md
 SECURITY.md
 
-# Visual Studio Code
+# macOS (optional)
+.DS_Store
+
+# Visual Studio Code (optional)
 .vscode
